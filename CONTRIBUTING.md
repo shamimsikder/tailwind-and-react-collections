@@ -7,7 +7,7 @@ Thank you for considering contributing to the "Tailwind Collections" repository!
 2. Clone your forked repository to your local machine using the following command:
 
 ```
-git clone https://github.com/your-username/tailwind-react-collections.git
+git clone https://github.com/your-username/tailwind-collections.git
 ```
 
 3. Create a new branch for your contribution:
@@ -19,7 +19,7 @@ git checkout -b my-contribution
 
 Here are some ways you can contribute to the repository:
 
-**Adding New Components**: You can create and contribute new Tailwind CSS and React components that are not currently available in the collection. Ensure the components follow best practices, have clear documentation, and include any necessary tests.
+**Adding New Components**: You can create and contribute new Tailwind CSS components that are not currently available in the collection. Ensure the components follow best practices, have clear documentation, and include any necessary tests.
 
 **Improving Existing Components**: If you spot any issues or have ideas for improving existing components, feel free to submit your changes. This can include bug fixes, performance optimizations, or enhancing the user experience.
 
