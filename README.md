@@ -21,3 +21,4 @@ Please review [contributing guidelines](https://github.com/shamimsikder/tailwind
  1. [Tailwind Cards 2](https://codepen.io/shamimsikder/pen/ExONQgp)
  1. [Tailwind Cards 3](https://codepen.io/shamimsikder/pen/ExONQLG)
  1. [Tailwind Cards 4](https://codepen.io/shamimsikder/pen/YzRpLJR)
+ 1. [Tailwind Cards 5](https://codepen.io/shamimsikder/pen/PoxbLpJ)
