@@ -12,18 +12,23 @@ Please review [contributing guidelines](https://github.com/shamimsikder/tailwind
 
 - [Tailwind Spinner Collection ](#tailwind-spinner-collection)
 - [Tailwind Cards Collection](#tailwind-cards-collection)
+- [Tailwind LogIn Form Collection](#tailwind-login-form-collection)
 
 <hr>
 
 ### Tailwind Spinner Collection 
-1. [Tailwind Spinner 1](https://codepen.io/egoistdeveloper/pen/KKyxZZN)
-2. [Tailwind Spinner 2](https://codepen.io/shamimsikder/pen/rNQMrXM)
-3. [Tailwind Spinner 3](https://codepen.io/shamimsikder/pen/NWERgBm)
+- [Tailwind Spinner 1](https://codepen.io/egoistdeveloper/pen/KKyxZZN)
+- [Tailwind Spinner 2](https://codepen.io/shamimsikder/pen/rNQMrXM)
+- [Tailwind Spinner 3](https://codepen.io/shamimsikder/pen/NWERgBm)
 
 ### Tailwind Cards Collection
 
- 1. [Tailwind Cards 1](https://codepen.io/shamimsikder/pen/abQmaZL)
- 1. [Tailwind Cards 2](https://codepen.io/shamimsikder/pen/ExONQgp)
- 1. [Tailwind Cards 3](https://codepen.io/shamimsikder/pen/ExONQLG)
- 1. [Tailwind Cards 4](https://codepen.io/shamimsikder/pen/YzRpLJR)
- 1. [Tailwind Cards 5](https://codepen.io/shamimsikder/pen/PoxbLpJ)
+ - [Tailwind Cards 1](https://codepen.io/shamimsikder/pen/abQmaZL)
+ - [Tailwind Cards 2](https://codepen.io/shamimsikder/pen/ExONQgp)
+ - [Tailwind Cards 3](https://codepen.io/shamimsikder/pen/ExONQLG)
+ - [Tailwind Cards 4](https://codepen.io/shamimsikder/pen/YzRpLJR)
+ - [Tailwind Cards 5](https://codepen.io/shamimsikder/pen/PoxbLpJ)
+
+### Tailwind LogIn Form Collection
+
+- [LogIn Form 1](https://codepen.io/shamimsikder/pen/YzRNKjz)
