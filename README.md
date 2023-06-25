@@ -8,6 +8,11 @@ Contributions to the "Tailwind Collections" repository are encouraged and welcom
 
 Please review [contributing guidelines](https://github.com/shamimsikder/tailwind-collections/blob/main/CONTRIBUTING.md).
 
+## Table of Contents
+
+- [Tailwind Spinner Collection ](#tailwind-spinner-collection)
+- [Tailwind Cards Collection](#tailwind-cards-collection)
+
 <hr>
 
 ### Tailwind Spinner Collection 
