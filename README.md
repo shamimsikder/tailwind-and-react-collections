@@ -32,3 +32,4 @@ Please review [contributing guidelines](https://github.com/shamimsikder/tailwind
 ### Tailwind LogIn Form Collection
 
 - [LogIn Form 1](https://codepen.io/shamimsikder/pen/YzRNKjz)
+- [LogIn Form 2](https://codepen.io/shamimsikder/pen/rNQjeVG)
