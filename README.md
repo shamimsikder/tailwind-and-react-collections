@@ -13,6 +13,7 @@ Please review [contributing guidelines](https://github.com/shamimsikder/tailwind
 - [Tailwind Spinner Collection ](#tailwind-spinner-collection)
 - [Tailwind Cards Collection](#tailwind-cards-collection)
 - [Tailwind LogIn Form Collection](#tailwind-login-form-collection)
+- [Tailwind Button Collection](#tailwind-button-collection)
 
 <hr>
 
@@ -35,3 +36,7 @@ Please review [contributing guidelines](https://github.com/shamimsikder/tailwind
 - [LogIn Form 2](https://codepen.io/shamimsikder/pen/rNQjeVG)
 - [LogIn Form 3](https://codepen.io/shamimsikder/pen/YzRNqNM)
 - [LogIn Form 4](https://codepen.io/shamimsikder/pen/xxQgMbp)
+
+### Tailwind Button Collection 
+
+- [Button 1](https://codepen.io/shamimsikder/pen/XWyRMYb)
