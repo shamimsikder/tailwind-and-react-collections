@@ -40,3 +40,4 @@ Please review [contributing guidelines](https://github.com/shamimsikder/tailwind
 ### Tailwind Button Collection 
 
 - [Button 1](https://codepen.io/shamimsikder/pen/XWyRMYb)
+- [Button 2](https://codepen.io/shamimsikder/pen/NWEjMmo)
