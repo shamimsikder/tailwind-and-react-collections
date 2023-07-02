@@ -46,3 +46,4 @@ Please review [contributing guidelines](https://github.com/shamimsikder/tailwind
 ### Responsive Tailwind Navbar
 
 - [Navbar Collection 1](https://codepen.io/shamimsikder/pen/JjeJjbm)
+- [Navbar Collection 2](https://codepen.io/shamimsikder/pen/eYQRmVw)
