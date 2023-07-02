@@ -14,6 +14,7 @@ Please review [contributing guidelines](https://github.com/shamimsikder/tailwind
 - [Tailwind Cards Collection](#tailwind-cards-collection)
 - [Tailwind LogIn Form Collection](#tailwind-login-form-collection)
 - [Tailwind Button Collection](#tailwind-button-collection)
+- [Responsive Tailwind Navbar](#responsive-tailwind-navbar)
 
 <hr>
 
@@ -41,3 +42,7 @@ Please review [contributing guidelines](https://github.com/shamimsikder/tailwind
 
 - [Button 1](https://codepen.io/shamimsikder/pen/XWyRMYb)
 - [Button 2](https://codepen.io/shamimsikder/pen/NWEjMmo)
+
+### Responsive Tailwind Navbar
+
+- [Navbar Collection 1](https://codepen.io/shamimsikder/pen/JjeJjbm)
