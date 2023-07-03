@@ -47,3 +47,4 @@ Please review [contributing guidelines](https://github.com/shamimsikder/tailwind
 
 - [Navbar Collection 1](https://codepen.io/shamimsikder/pen/JjeJjbm)
 - [Navbar Collection 2](https://codepen.io/shamimsikder/pen/eYQRmVw)
+- [Navbar Collection 3](https://codepen.io/shamimsikder/pen/oNQwExw)
